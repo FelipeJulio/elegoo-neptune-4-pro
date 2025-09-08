@@ -1,4 +1,4 @@
-# Elegoo Neptune 4 Pro - Printer Settings for Cura
+# Elegoo Neptune 4 Pro - Settings for Cura 5.10
 
 ## Printer
 
